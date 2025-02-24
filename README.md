@@ -1,18 +1,15 @@
 # Hi there! I'm Nilasi
   
 I am From **Sri Lanka** – an island lover at heart! 🏝️ 
-
-I love working on my wildest ideas, to make impactful solutions! 💡
-
-If you ask me: I would say I have a knack to see the bigger picture. Trying to learn the art of executing to perfection currently!⚡
+I love working on my wildest ideas, and bring them to life 💡It so happens that i have a lot ideas that i would like to work on.
+If you ask me: I would say I have a knack to see the bigger picture. Currently I am trying to learn the art of executing these ideas to completion!⚡
 
 ---
 
-## 📊 GitHub Stats  
-
-![NilasiJayathilake's Stats](https://github-readme-stats.vercel.app/api?username=NilasiJayathilake&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+## 📊 GitHub Stats   
 ![NilasiJayathilake's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NilasiJayathilake&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)  
 
+![NilasiJayathilake's Stats](https://github-readme-stats.vercel.app/api?username=NilasiJayathilake&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 ---
 
 ## 🌱 What I'm Currently Working On
