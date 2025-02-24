@@ -12,7 +12,7 @@ If you ask me: I would say I have a knack to see the bigger picture. Currently I
 ![NilasiJayathilake's Stats](https://github-readme-stats.vercel.app/api?username=NilasiJayathilake&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 ---
 
-## 🌱 What I'm Currently Working On
+##  🌊 What I'm Currently Working On
 Here's some of my projects I am actively working on: 
 - 🚀 **MochiElectronics** Using **Elasticsearch & AI-powered search, Springboot** to build a electronic shopping platform with an advance search. 
 
