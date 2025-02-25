@@ -10,6 +10,7 @@ If you ask me: I would say I have a knack to see the bigger picture. Currently I
 ![NilasiJayathilake's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NilasiJayathilake&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)  
 
 ![NilasiJayathilake's Stats](https://github-readme-stats.vercel.app/api?username=NilasiJayathilake&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
+![NilasiJayathilake's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NilasiJayathilake&theme=vue-dark&hide_border=true) 
 ---
 
 ##  🌊 What I'm Currently Working On
